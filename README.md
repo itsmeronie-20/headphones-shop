@@ -2,6 +2,8 @@
 
 A clean and responsive headphone shop website built with HTML, CSS, and JavaScript.
 
+![image alt](https://github.com/itsmeronie-20/headphones-shop/blob/da17bea41831f68e8cbfc1d3a2272f921f0c92da/p-image/p1.png)
+
 # ✨ Features
 
 - Responsive design
