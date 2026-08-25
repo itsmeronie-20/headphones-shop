@@ -26,11 +26,9 @@ A clean and responsive headphone shop website built with HTML, CSS, and JavaScri
 # 📂 Project Structure
 
 headphone-shop/
-│
 ├── index.html
 ├── styles.css
 ├── main.js
-│
 ├── p-image/
 │   ├── bg.jpg
 │   ├── bn.jpg
@@ -40,7 +38,6 @@ headphone-shop/
 │   ├── p4.jpg
 │   ├── p5.jpg
 │   └── p6.jpg
-│
 └── README.md
 
 # 📄 Files
