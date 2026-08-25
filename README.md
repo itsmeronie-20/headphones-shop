@@ -25,20 +25,7 @@ A clean and responsive headphone shop website built with HTML, CSS, and JavaScri
 
 # 📂 Project Structure
 
-headphone-shop/
-├── index.html
-├── styles.css
-├── main.js
-├── p-image/
-│   ├── bg.jpg
-│   ├── bn.jpg
-│   ├── p1.jpg
-│   ├── p2.jpg
-│   ├── p3.jpg
-│   ├── p4.jpg
-│   ├── p5.jpg
-│   └── p6.jpg
-└── README.md
+![image alt](https://github.com/itsmeronie-20/headphones-shop/blob/87b4475362fc337b4b84250bafaf98ae19b5d621/p-image/project_structure.png)
 
 # 📄 Files
 
